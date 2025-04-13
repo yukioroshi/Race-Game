@@ -2,7 +2,8 @@
 
 ## Description
 
-The point of this project was to learn how to use C++ with unreal
+The point of this project was to learn how to use C++ with unreal,
+This game is about doing 3 full laps in the least amount of time possible, there are obstacle to block your path.
 
 ## Screenshots
 
